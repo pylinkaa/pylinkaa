@@ -1,16 +1,29 @@
-## Hi there 👋
+# ✨ Привет, я Полина
 
-<!--
-**pylinkaa/pylinkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌿 Студентка направления **«Управление бизнесом и цифровые продукты»** в ИУ РАНХиГС.  
+💭 Люблю совмещать **аналитику, дизайн и стратегию** — от идей до работающих решений.  
+🎯 Интересы: **продуктовый менеджмент**, **маркетинг**, **AI и креативные технологии**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Навыки и инструменты
+`Python` · `SQL` · `Excel / Sheets` · `Figma` · `Git`  
+`Product Analytics` · `CJM / JTBD` · `Notion` · `Markdown`
+
+---
+
+### 🚀 Мои проекты
+- **Project 1** — аналитика и сегментация пользователей  
+- **Project 2** — визуальные концепции и UX-исследования  
+- **Project 3** — учебный Python-проект  
+
+---
+
+### 🌐 Контакты
+📫 [Email](mailto:alkstsva@gmail.com)  
+💬 [Telegram](https://t.me/plkstsva)  
+🐙 [GitHub](https://github.com/pylinkaa)
+
+---
+
+> _“Build things you wish existed.”_ 🚀
